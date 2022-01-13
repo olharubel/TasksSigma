@@ -1,0 +1,6 @@
+/Users/olgarubel/Projects/SortMethods/SortMethods/bin/Debug/SortMethods.exe
+/Users/olgarubel/Projects/SortMethods/SortMethods/bin/Debug/SortMethods.pdb
+/Users/olgarubel/Projects/SortMethods/SortMethods/obj/Debug/SortMethods.csproj.AssemblyReference.cache
+/Users/olgarubel/Projects/SortMethods/SortMethods/obj/Debug/SortMethods.csproj.CoreCompileInputs.cache
+/Users/olgarubel/Projects/SortMethods/SortMethods/obj/Debug/SortMethods.exe
+/Users/olgarubel/Projects/SortMethods/SortMethods/obj/Debug/SortMethods.pdb
